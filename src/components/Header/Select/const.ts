@@ -1,0 +1,1 @@
+export const OPTIONS = ["", "water", "fire", "grass", "bug", "normal", "electric", "rock", "dark", "fairy", "flying", "ground", "poison", "steel", "dragon", "fighting", "ghost", "ice", "psychic"]
